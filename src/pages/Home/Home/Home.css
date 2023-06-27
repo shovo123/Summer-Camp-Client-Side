@@ -1,0 +1,11 @@
+/* Default styles for light theme */
+.App {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Styles for dark theme */
+.App.dark {
+  background-color: #333333;
+  color: #ffffff;
+}

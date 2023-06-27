@@ -1,0 +1,22 @@
+/* Dark theme styles */
+.dark {
+  background-color: #000000;
+  color: #ffffff;
+  /* color: #000000; */
+}
+.home{
+  color: #000000;
+}
+.navbar{
+  color: #ffffff;
+}
+
+.blog-title, .popular-tilte, .popular-class{
+  color:rgb(11, 164, 224);
+}
+
+/* Light theme styles */
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
